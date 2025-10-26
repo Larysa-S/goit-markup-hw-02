@@ -24,8 +24,7 @@
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
-    text-align: center;
-    color: #fff;
+    color: #ffffff;
   }
  .main-title-section {
   background-color: #2e2f42;
@@ -37,11 +36,9 @@
    font-weight: 500;
    font-size: 16px;
    line-height: 1.5;
-   letter-spacing: 0.04em;
-   color: #fff;
-   cursor: pointer;
-   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-   background-color: #4d5ae5;  
+   color: #ffffff;
+   cursor: pointer;  
+   background-color: #4D5AE5;
  }
  .botton:hover,
  .botton:active {
@@ -51,9 +48,9 @@
   h2 {
       font-weight: 700;
       font-size: 36px;
-      line-height: 1.2;
+      line-height: 1.11;
       letter-spacing: 0.02em;
-      text-align: center;
+      text-transform: capitalize;
       color: #2e2f42;
   }
 
@@ -62,7 +59,6 @@
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #2e2f42;
   }
 
