@@ -108,6 +108,10 @@
   .contacts-link:focus {
     color: #404bbf;
   }
+  
+  .our-portfolio-nav {
+    background-color: #FFFFFF;
+  }
 
   .page-footer {
     background-color: #2e2f42;
