@@ -22,7 +22,7 @@
   h1 {
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
@@ -33,7 +33,7 @@
  .our-team {
   background-color: #f4f4fd;
  }
- button {
+ .button {
    font-weight: 500;
    font-size: 16px;
    line-height: 1.5;
@@ -41,9 +41,13 @@
    color: #fff;
    cursor: pointer;
    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-   background: #4d5ae5;
+   background-color: #4d5ae5;  
  }
-
+ .botton:hover,
+ .botton:active {
+    background-color: #404bbf;  
+ } 
+ 
   h2 {
       font-weight: 700;
       font-size: 36px;
@@ -66,7 +70,7 @@
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.17;
+    line-height: 1.2;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -110,9 +114,10 @@
   }
 
   .footer-logo {
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.17;
+    line-height: 1.2;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
